@@ -1,2 +1,2 @@
 # Super_Scraper
-Scrape Articles about your Favorite Hero
+Scrape Articles from Bored Panda
